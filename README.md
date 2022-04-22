@@ -1,3 +1,3 @@
 # Synchroniser
 Synchrniser-react-component
-!(screens/sync.png "SYNCHRONISER")
+![Alt text](./screens/sync.png "SYNCHRONISER")
